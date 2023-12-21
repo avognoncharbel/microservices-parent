@@ -1,0 +1,7 @@
+
+spring:
+  data:
+    mongodb:
+      user: test
+      password: passwordvalue
+      uri: mongodb://localhost:27017/product-service
